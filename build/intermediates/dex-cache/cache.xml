@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/pre-dexed/debug/classes-02adb4e5f3dca49cadb9171c5451a2a84cd71e38.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e1c606b8ba58cacd4fe76229b93d894dfaf31617.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-32bccf138ab98d9b0a419274ab394df398316977.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/MJ/AndroidTraining/Week5_Database/app/build/intermediates/pre-dexed/debug/classes-76b8ea3f871ce3f1a570bbe6c3c75730b2f1f98a.jar" />
+    </item>
+
+</items>
